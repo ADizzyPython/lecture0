@@ -1,5 +1,24 @@
 h3 {
 	color:#e6d48e;
 	text-align:center;
-
+    background-color: black;
+    margin:35px;
+    padding: 10px;
+    font-family: Algerian;
+}
+th, td{
+    border: 2px solid black;
+    text-align: center;
+}
+table{
+	border-collapse: collapse;
+	border: 4px dotted blue;
+	margin: 4px;
+}
+th{
+	background-color: red;
+}
+td{
+	background-color: grey;
+	padding: 5px;
 }
